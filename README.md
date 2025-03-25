@@ -15,7 +15,7 @@ Presentación personal dirigida a todos mis compañeros 😎
 ## Presentación
 Buenas compañeros, mucho gusto, ya saben mi nombre porque aparece en el nombre de este repositorio 🤣, soy administrador de empresas 💼 y vivo en Sincelejo.
 
-Hablando de hobbies, me gustan los juegos de PC, editar videos y hacer clips, de la misma forma, me gustan todos los deportes, sobretodo el beisbol y baloncesto (Aunque hace mucho no practico).
+Hablando de hobbies, me gustan los juegos de PC, editar videos y hacer clips (para redes sociales), de la misma forma, me gustan todos los deportes, sobretodo el beisbol y baloncesto (Aunque hace mucho no practico).
 
 Soy nuevo en este mundo de los codigos, pero, siempre me ha llamado mucho la atención.
 
